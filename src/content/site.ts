@@ -15,7 +15,7 @@ export const profile = {
     "I work in React, Next.js and TypeScript, and I care about the parts people feel: fast pages, accessible components, and layouts that read as naturally right-to-left as left-to-right. Behind the interface I write the Node.js APIs, usually on MongoDB, or PostgreSQL when the data calls for it.",
   github: "https://github.com/mahmoud-abo-al-ela",
   githubHandle: "mahmoud-abo-al-ela",
-  linkedin: "www.linkedin.com/in/mahmoud-abo-al-ela/",
+  linkedin: "https://linkedin.com/in/mahmoud-abo-al-ela/",
 };
 
 export type Shot = { image: StaticImageData; alt: string; caption: string };
